@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "wipe": false,
+  "message": "Optional banner shown in the popup to all users.",
+  "scripts": {
+    "async": { "enabled": false },
+    "Links": { "enabled": true },
+    "r:88fbf4517087253b61c2071ef8868d4e": { "enabled": false }
+  }
+}
