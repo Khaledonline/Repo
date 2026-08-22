@@ -3,7 +3,11 @@
   "wipe": false,
   "message": "",
   "allow": "*",
-  "block": [],
+  "block": [
+    "test.block1@dubizzle.com.eg",
+    "test.block2@dubizzle.com.eg",
+    "test.block3@dubizzle.com.eg"
+  ],
   "maxUsers": 100,
   "metrics": "https://script.google.com/macros/s/AKfycbzqavFRj_IgVk7msTMhZVq-QU1MnEtSyeL5bCG3zgfWOdPUMSQtzAGD_5dgbcmKdHO3eA/exec",
   "scripts": {}
