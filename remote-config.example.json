@@ -4,9 +4,9 @@
   "message": "",
   "allow": "*",
   "block": [
-    "Khaled.Hussien@dubizzle.com.eg",
-    "test.block2@dubizzle.com.eg",
-    "test.block3@dubizzle.com.eg"
+    "test.1@dubizzle.com.eg",
+    "test.2@dubizzle.com.eg",
+    "test.3@dubizzle.com.eg"
   ],
   "maxUsers": 100,
   "metrics": "https://script.google.com/macros/s/AKfycbzqavFRj_IgVk7msTMhZVq-QU1MnEtSyeL5bCG3zgfWOdPUMSQtzAGD_5dgbcmKdHO3eA/exec",
