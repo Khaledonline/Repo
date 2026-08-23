@@ -4,7 +4,7 @@
   "message": "",
   "allow": "*",
   "block": [
-    "Khaled.Hussien@dubizzle.com.eg",
+    "test.1@dubizzle.com.eg",
     "test.2@dubizzle.com.eg",
     "test.3@dubizzle.com.eg"
   ],
