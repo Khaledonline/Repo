@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "wipe": false,
+  "wipe": true,
   "message": "",
   "allow": "*",
   "block": [
